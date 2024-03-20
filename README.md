@@ -1,6 +1,6 @@
 Hey! I'm Zaya, a developer focused in... everthing! I like GameDev, Scientific Computing, IAs/ML and Systems.
 - At the moment i'm learning:
-  - > Rust
+  - > Godot
   - > C
   - > OS Creation with Rust
   - > Node.JS
@@ -8,6 +8,8 @@ Hey! I'm Zaya, a developer focused in... everthing! I like GameDev, Scientific C
 -------------------------------
  
 -  I already know:
+   - > Sass
+   - > Rust
    - > Python
    - > JavaScript
    - > C#
